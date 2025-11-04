@@ -14,5 +14,4 @@
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&height=20)](https://www.facebook.com/rakeshsinghdhami06/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&height=20)](https://www.linkedin.com/in/rakeshsinghdhami/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white&height=20)](https://www.youtube.com/@rakeshsinghdhami06?sub_confirmation=1)
-
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&height=20)](mailto:rakeshsinghdhamirsd@gmail.com)
