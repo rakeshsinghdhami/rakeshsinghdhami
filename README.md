@@ -3,7 +3,6 @@
 </h1>
 
 - 🎓 I am a **Grade 12 Computer Science student at NAST (National Academy of Science and Technology)**  
-- 🌱 I am currently studying subjects related to **computer science and technology**  
 - 💻 I have learned some basics of **HTML, CSS, C, and SQL** as part of my studies  
 - 📚 I like gaining general knowledge about computers and their applications  
 - 🎯 I aim to do well in my studies and build a good academic foundation  
