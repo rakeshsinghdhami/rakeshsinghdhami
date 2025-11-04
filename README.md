@@ -16,3 +16,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&height=20)](https://www.linkedin.com/in/thecodingdhami/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&height=20)](https://www.instagram.com/dinesh.singhdhami/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white&height=20)](https://www.youtube.com/@thecodingdhami1?sub_confirmation=1)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&height=20)](https://www.facebook.com/yourprofile)
