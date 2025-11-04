@@ -5,7 +5,8 @@
 - 🎓 I am a **Grade 12 Computer Science student at NAST (National Academy of Science and Technology)**  
 - 💻 I have learned some basics of **HTML, CSS, C, and SQL** as part of my studies  
 - 📚 I try to improve a little every day and gain practical experience where I can 
-- 🎯 My goal is to perform well in my studies and prepare for future learning opportunities  
+- 🎯 My goal is to perform well in my studies and prepare for future learning opportunities
+- 🧠 Focused on continuous learning, and best practices.
 - 📚 You can view my school-related works on **[GitHub Repositories](https://github.com/rakeshsinghdhami?tab=repositories)**  
 - 📧 You can reach me at **rakeshsinghdhamirsd@gmail.com**
   
