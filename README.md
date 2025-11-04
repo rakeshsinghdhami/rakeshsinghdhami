@@ -2,17 +2,14 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rakesh+Singh+Dhami+!;" />
 </h1>
 
-- 🎓 **Grade 12 Computer Science student at NAST (National Academy of Science and Technology)**
-- 🌱 Currently learning **programming fundamentals and web development**
-- 💻 Skilled in **HTML, CSS, C, and SQL**
-- 🧠 Interested in exploring **Python, JavaScript, and modern web technologies**
-- 🚀 Passionate about **building a strong foundation in coding and problem-solving**
-- 📚 Love to learn new things and improve every day
-- 📚 Check out my projects on **[GitHub Repositories](https://github.com/itzQuizzer?tab=repositories)**
-- 📧 Reach me at **quizzer1pro@gmail.com**
-
-
-
+- 🎓 I’m a **Grade 12 Computer Science student at NAST (National Academy of Science and Technology)**
+- 🌱 I’m currently learning **basic programming and web development**
+- 💻 I have learned **HTML, CSS, C, and SQL**
+- 🧠 I’m interested in learning more about **coding and technology**
+- 🚀 I want to improve my skills and become better at **programming**
+- 📚 I enjoy learning new things every day
+- 📚 Check out my small projects on **[GitHub Repositories](https://github.com/itzQuizzer?tab=repositories)**
+- 📧 You can reach me at **quizzer1pro@gmail.com**
 
 
 **Connect with me:**
