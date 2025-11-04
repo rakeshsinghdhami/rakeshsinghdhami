@@ -8,6 +8,7 @@
 - 🧠 Interested in exploring **Python, JavaScript, and modern web technologies**
 - 🚀 Passionate about **building a strong foundation in coding and problem-solving**
 - 📚 Love to learn new things and improve every day
+- 📚 Check out my projects on **[GitHub Repositories](https://github.com/itzQuizzer?tab=repositories)**
 - 📧 Reach me at **quizzer1pro@gmail.com**
 
 
