@@ -3,13 +3,13 @@
 </h1>
 
 - 🎓 **Grade 12 Computer Science student at NAST (National Academy of Science and Technology)**
-- 🌱 Passionate about **learning, building, and exploring technology**
-- 💻 Currently developing **Quizzer — a web-based quiz platform**
-- ⚙️ **Tech Stack:** Python (Flask, Django), JavaScript, HTML, CSS
-- 🎨 Skilled in **Frontend and Backend Web Development**
-- 🤖 Exploring **AI-Integrated Web Applications and Smart Quiz Features**
-- 📚 Check out my projects on **[GitHub Repositories](https://github.com/itzQuizzer?tab=repositories)**
+- 🌱 Currently learning **programming fundamentals and web development**
+- 💻 Skilled in **HTML, CSS, C, and SQL**
+- 🧠 Interested in exploring **Python, JavaScript, and modern web technologies**
+- 🚀 Passionate about **building a strong foundation in coding and problem-solving**
+- 📚 Love to learn new things and improve every day
 - 📧 Reach me at **quizzer1pro@gmail.com**
+
 
 
 
