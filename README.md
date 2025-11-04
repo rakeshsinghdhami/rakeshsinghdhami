@@ -2,12 +2,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rakesh+Singh+Dhami+!;" />
 </h1>
 
-- 🌱 **Building and maintaining Quizzer — a web-based quiz platform**
-- 💻 **Tech stack:** Python (Flask, Django), JavaScript, HTML, CSS
-- 🎨 Experience in **Frontend & Backend Development**
-- 🤖 Currently exploring **AI-Integrated Quiz Features**
-- 📚 Check out Quizzer projects on **[Project & work](https://github.com/itzQuizzer?tab=repositories)**
+- 🎓 **Grade 12 Computer Science student at NAST (National Academy of Science and Technology)**
+- 🌱 Passionate about **learning, building, and exploring technology**
+- 💻 Currently developing **Quizzer — a web-based quiz platform**
+- ⚙️ **Tech Stack:** Python (Flask, Django), JavaScript, HTML, CSS
+- 🎨 Skilled in **Frontend and Backend Web Development**
+- 🤖 Exploring **AI-Integrated Web Applications and Smart Quiz Features**
+- 📚 Check out my projects on **[GitHub Repositories](https://github.com/itzQuizzer?tab=repositories)**
 - 📧 Reach me at **quizzer1pro@gmail.com**
+
 
 
 
