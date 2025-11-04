@@ -1,5 +1,5 @@
 <h1>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rakesh Singh Dhami+!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rakesh+Singh+Dhami+!;" />
 </h1>
 
 - 🌱 **Building and maintaining Quizzer — a web-based quiz platform**
